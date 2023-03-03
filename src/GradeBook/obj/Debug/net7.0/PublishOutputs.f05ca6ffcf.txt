@@ -1,0 +1,5 @@
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/publish/GradeBook
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/publish/GradeBook.dll
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/publish/GradeBook.deps.json
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/publish/GradeBook.runtimeconfig.json
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/publish/GradeBook.pdb

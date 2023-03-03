@@ -1,0 +1,15 @@
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.deps.json
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.runtimeconfig.json
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.dll
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.pdb
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.AssemblyReference.cache
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfoInputs.cache
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfo.cs
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.dll
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/refint/GradeBook.dll
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.pdb
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.genruntimeconfig.cache
+/Users/roshaanbajwa/pluralsight/c-sharp/gradebook/src/GradeBook/obj/Debug/net7.0/ref/GradeBook.dll

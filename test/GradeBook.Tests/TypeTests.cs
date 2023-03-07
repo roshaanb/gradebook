@@ -25,12 +25,14 @@ namespace GradeBook.Tests
             Assert.Equal(3, count);
         }
 
-        string IncrementCount(string message){
+        string IncrementCount(string message)
+        {
             count++;
             return message.ToLower();
         }
 
-        string ReturnMessage(string message){
+        string ReturnMessage(string message)
+        {
             count++;
             return message;
         }
@@ -50,7 +52,7 @@ namespace GradeBook.Tests
 
         void GetBookSetName(Book book, string name)
         {
-            book = new Book(name);
+            book = new InMemoryBook(name);
         }
 
         [Fact]
@@ -67,7 +69,7 @@ namespace GradeBook.Tests
 
         void GetBookSetName(ref Book book, string name)
         {
-            book = new Book(name);
+            book = new InMemoryBook(name);
         }
 
         [Fact]
@@ -122,7 +124,7 @@ namespace GradeBook.Tests
         {
             param.ToUpper();
         }
-        
+
         [Fact]
         public void StringsStillBehaveLikeValueTypes()
         {
@@ -177,7 +179,7 @@ namespace GradeBook.Tests
 
         Book GetBook(string name)
         {
-            return new Book(name);        
+            return new InMemoryBook(name);
         }
     }
 }

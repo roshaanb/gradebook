@@ -6,14 +6,14 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            var book = new Book("Roshaan's gradebook");
+            IBook book = new DiskBook("Roshaan's gradebook");
             book.GradeAdded += OnGradeAdded;
 
             EnterGrades(book);
 
             try
             {
-                var stats = book.GetStats();
+                var stats = book.GetStatistics();
 
                 Console.WriteLine($"For the book named {book.Name}");
                 Console.WriteLine($"The average grade is {stats.Average:N1}");
@@ -27,7 +27,7 @@ namespace GradeBook
             }
         }
 
-        private static void EnterGrades(Book book)
+        private static void EnterGrades(IBook book)
         {
             while (true)
             {
